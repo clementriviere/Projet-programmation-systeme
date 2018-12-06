@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.exe.config
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.exe
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.pdb
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.exe
+C:\Users\ASUS\source\repos\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Business
 {
-    class RecipeType
+    public class RecipeType
     {
     }
 }
