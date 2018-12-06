@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Business
+namespace Model.Business.Mapper
 {
-    public class CommonEquipment
+    class StockType
     {
-
     }
 }
