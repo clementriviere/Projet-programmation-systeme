@@ -41,42 +41,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Business\CommonEquipment.cs" />
     <Compile Include="Business\Ingredient.cs" />
     <Compile Include="Business\IngredientType.cs" />
     <Compile Include="Business\KitchenEquipment.cs" />
-    <Compile Include="Business\Mapper\CommonEquipment.cs" />
     <Compile Include="Business\Mapper\Ingredient.cs" />
     <Compile Include="Business\Mapper\IngredientType.cs" />
     <Compile Include="Business\Mapper\KitchenEquipment.cs" />
     <Compile Include="Business\Mapper\Recipe.cs" />
     <Compile Include="Business\Mapper\RecipeType.cs" />
-    <Compile Include="Business\Mapper\RoomEquipment.cs" />
     <Compile Include="Business\Mapper\Step.cs" />
     <Compile Include="Business\Mapper\StepIngredient.cs" />
     <Compile Include="Business\Recipe.cs" />
     <Compile Include="Business\RecipeType.cs" />
-    <Compile Include="Business\RoomEquipment.cs" />
     <Compile Include="Business\Step.cs" />
     <Compile Include="Business\StepIngredient.cs" />
     <Compile Include="Data\Context.cs" />
-    <Compile Include="Data\DAO\CommonEquipment.cs" />
     <Compile Include="Data\DAO\Ingredient.cs" />
     <Compile Include="Data\DAO\IngredientType.cs" />
     <Compile Include="Data\DAO\KitchenEquipment.cs" />
     <Compile Include="Data\DAO\Recipe.cs" />
     <Compile Include="Data\DAO\RecipeType.cs" />
-    <Compile Include="Data\DAO\RoomEquipment.cs" />
     <Compile Include="Data\DAO\Step.cs" />
     <Compile Include="Data\DAO\StepIngredient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service\CommonEquipment.cs" />
     <Compile Include="Service\Ingredient.cs" />
     <Compile Include="Service\IngredientType.cs" />
     <Compile Include="Service\KitchenEquipment.cs" />
     <Compile Include="Service\Recipe.cs" />
     <Compile Include="Service\RecipeType.cs" />
-    <Compile Include="Service\RoomEquipment.cs" />
     <Compile Include="Service\Step.cs" />
     <Compile Include="Service\StepIngredient.cs" />
   </ItemGroup>
