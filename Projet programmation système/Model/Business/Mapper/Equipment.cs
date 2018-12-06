@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Data.DAO
+namespace Model.Business.Mapper
 {
-    public class CommonEquipment
+    class Equipment
     {
-
     }
 }

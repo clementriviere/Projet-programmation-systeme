@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Business.Mapper
 {
-    public class CommonEquipment
+    class Equipment
     {
-
     }
 }
