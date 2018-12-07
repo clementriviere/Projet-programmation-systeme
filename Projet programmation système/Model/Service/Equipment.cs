@@ -12,14 +12,14 @@ namespace Model.Service
     {
         public Model.Data.Context Context;
 
-        public Post()
+        public Equipment()
         {
             Context = new Context();
         }
 
 
 
-        public void Add(Business.Post Post)
+        public void Add(Business.Equipment Equipment)
         {
             
         }
@@ -31,21 +31,21 @@ namespace Model.Service
         }
 
 
-        public void Update(Business.Post Post)
+        public void Update(Business.Equipment Equipment)
         {
 
             
         }
 
 
-        public List<Business.Post> Get()
+        public List<Business.Equipment> Get()
         {
             return null;
 
         }
 
 
-        public Business.Post Get(int Id)
+        public Business.Equipment Get(int Id)
         {
             return null;
         }
