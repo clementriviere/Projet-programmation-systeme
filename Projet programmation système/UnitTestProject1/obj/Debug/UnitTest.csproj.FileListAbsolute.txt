@@ -1,0 +1,23 @@
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.exe
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.pdb
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.exe.config
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.exe
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.pdb
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.exe.config
