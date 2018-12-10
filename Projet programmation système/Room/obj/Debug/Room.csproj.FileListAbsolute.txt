@@ -1,0 +1,7 @@
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\bin\Debug\Room.exe.config
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\bin\Debug\Room.exe
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\bin\Debug\Room.pdb
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\obj\Debug\Room.csprojAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\obj\Debug\Room.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\obj\Debug\Room.exe
+C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Room\obj\Debug\Room.pdb
