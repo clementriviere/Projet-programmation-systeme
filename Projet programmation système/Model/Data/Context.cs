@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Data
 {
-    class Context
+    class Context : DbContext
     {
     }
 }

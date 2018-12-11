@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Business.Mapper
+namespace Model.Business
 {
     class StockingZone
     {
