@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Model.Data.DAO
 {
-    class EquipmentType
+    public class Scenario
     {
+        public int Id { get; set; }
+        public string ScenarioName { get; set; }
+
     }
 }

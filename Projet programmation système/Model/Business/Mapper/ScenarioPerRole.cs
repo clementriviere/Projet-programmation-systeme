@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Business.Mapper
 {
-    class Ingredient
+    class ScenarioPerRole
     {
     }
 }

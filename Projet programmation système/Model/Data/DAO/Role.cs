@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Business.Mapper
+namespace Model.Data.DAO
 {
-    class Equipment
+    public class Role
     {
+        public int Id { get; set; }
+        public string RoleName { get; set; }
+
     }
 }

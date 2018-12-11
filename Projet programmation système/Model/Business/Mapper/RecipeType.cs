@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Model.Business.Mapper
 {
-    class RecipeType
+   public static class RecipeType
     {
+        public static Business.RecipeType Map(Data.DAO.RecipeType recipeType)
+        {
+            return new Business.RecipeType
+            {
+                Id = recipeType.Id,
+                TypeName = recipeType.TypeName
+            };
+        }
     }
 }

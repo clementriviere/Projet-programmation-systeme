@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Business.Mapper
+namespace Model.Service
 {
-    class StockType
+    class ScenarioPerRole
     {
+
     }
 }

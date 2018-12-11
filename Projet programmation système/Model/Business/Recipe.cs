@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Model.Business
 {
-    class Recipe
+    public class Recipe
     {
+
+        public int Id { get; set; }
+        public string RecipeName { get; set; }
+        public int Duration { get; set; }
+
+
+        public RecipeType RecipeType { get; set; }
     }
 }

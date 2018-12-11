@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Business.Mapper
+namespace Model.Business
 {
-    class StockingZone
+    public class Scenario
     {
+        public int Id { get; set; }
+        public string ScenarioName { get; set; }
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Model.Data.DAO
 {
-    class RecipeType
+    public class RecipeType
     {
+        public int Id { get; set; }
+        public string TypeName { get; set; }
+
     }
 }

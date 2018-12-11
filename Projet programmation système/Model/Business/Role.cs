@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Data.DAO
+namespace Model.Business
 {
-    class StockType
+    public class Role
     {
+        public int Id { get; set; }
+        public string RoleName { get; set; }
     }
 }
