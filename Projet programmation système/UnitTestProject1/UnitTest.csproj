@@ -69,10 +69,6 @@
       <Project>{2481c7ab-ed99-441e-85cb-b7f22f29a0b0}</Project>
       <Name>Kitchen</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Room\Room.csproj">
-      <Project>{acb4b044-1827-42f8-91cd-eb538b8c57e1}</Project>
-      <Name>Room</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
