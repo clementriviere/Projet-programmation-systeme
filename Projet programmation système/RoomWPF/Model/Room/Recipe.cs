@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Room.Model
+namespace RoomWPF.Model.Room
 {
-    class Menu
+    class Recipe
     {
     }
 }

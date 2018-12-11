@@ -1,33 +1,50 @@
-﻿using System;
+﻿using RoomWPF.Model.Client;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel;
+using System.Threading;
 
 namespace Room.Model
 {
     class Butler
     {
-        private Butler INSTANCE;
+        private static Butler INSTANCE;
+        private BackgroundWorker bgw = new BackgroundWorker();
+
 
         public Butler GetInstance()
         {
             return this;
         }
 
-        public void CustomerReception()
+        public Butler()
         {
+            bgw.WorkerReportsProgress = true;
+            bgw.WorkerSupportsCancellation = true;
 
+            bgw.RunWorkerAsync();
         }
 
-        public Table TableAttribution()
-        {
-            /* A changer */ return null; /* A changer */
-        }
+    public void CustomerReception(List<IClient> client)
+    {
+        Console.WriteLine("The Butler is welcoming the client.");
+        Thread.Sleep(5000);
+        TableAttribution();
+    }
 
-        public HeadWaiter CallHeadWaiter()
+    public void TableAttribution()
+    {
+        if (Room.CAPACITY_ROOM < 1)
         {
-            /* A changer */ return null; /* A changer */
+            Console.WriteLine("The room is full, the client is waiting");
+            Thread.Sleep(5000);
+            TableAttribution();
         }
     }
+
+    public void CallHeadWaiter()
+    {
+        Console.WriteLine("The Butler is calling a head waiter.");
+    }
+}
 }
