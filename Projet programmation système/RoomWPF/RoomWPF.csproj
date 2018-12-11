@@ -57,9 +57,16 @@
     </ApplicationDefinition>
     <Compile Include="Controller\IRoomController.cs" />
     <Compile Include="Controller\RoomController.cs" />
+<<<<<<< HEAD
+    <Compile Include="Model\Client\FastClient.cs" />
+    <Compile Include="Model\Client\IClient.cs" />
+    <Compile Include="Model\Client\NormalClient.cs" />
+    <Compile Include="Model\Client\SlowClient.cs" />
+=======
     <Compile Include="Model\Client Thread\ClientPool.cs" />
     <Compile Include="Model\Client Thread\ClientThread.cs" />
     <Compile Include="Model\Client.cs" />
+>>>>>>> thomas
     <Compile Include="Model\CommonEquipement.cs" />
     <Compile Include="Model\Employee\Butler.cs" />
     <Compile Include="Model\Employee\Clerk.cs" />
@@ -68,6 +75,13 @@
     <Compile Include="Model\IEquipement.cs" />
     <Compile Include="Model\IMotion.cs" />
     <Compile Include="Model\IMotionless.cs" />
+<<<<<<< HEAD
+    <Compile Include="Model\RoomEquipement.cs" />
+    <Compile Include="Model\Room\Command.cs" />
+    <Compile Include="Model\Room\Recipe.cs" />
+    <Compile Include="Model\Room\Room.cs" />
+    <Compile Include="Model\Row.cs" />
+=======
     <Compile Include="Model\Object\Chair.cs" />
     <Compile Include="Model\Object\Menu.cs" />
     <Compile Include="Model\Object\Table.cs" />
@@ -79,6 +93,7 @@
     <Compile Include="Model\Row.cs" />
     <Compile Include="View\IRoomView.cs" />
     <Compile Include="View\RoomView.cs" />
+>>>>>>> thomas
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

@@ -45,6 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kitchen\Model\Client Thread\ClientPool.cs" />
+    <Compile Include="Kitchen\Model\Client Thread\ClientThread.cs" />
     <Compile Include="Kitchen\Controller\IKitchenController.cs" />
     <Compile Include="Kitchen\Controller\KitchenController.cs" />
     <Compile Include="Kitchen\Model\CommonEquipement.cs" />
