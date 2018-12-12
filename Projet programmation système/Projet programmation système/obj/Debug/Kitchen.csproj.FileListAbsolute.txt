@@ -5,3 +5,10 @@ C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet 
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.pdb
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.exe
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.pdb
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.exe.config
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.exe
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\bin\Debug\Projet programmation système.pdb
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Kitchen.csprojAssemblyReference.cache
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Kitchen.csproj.CoreCompileInputs.cache
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.exe
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\Projet programmation système\obj\Debug\Projet programmation système.pdb

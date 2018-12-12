@@ -16,37 +16,15 @@ namespace Model.Service
             Context = new Context();
         }
 
-
-
-        public void Add(Business.Recipe Recipe)
-        {
-
-        }
-
-
-        public void Delete(int id)
-        {
-
-        }
-
-
-        public void Update(Business.Recipe Recipe)
-        {
-
-
-        }
-
-
         public List<Business.Recipe> Get()
         {
-            return null;
-
+            return Business.Mapper.Recipe.Map(Context.Recipe.ToList());
         }
 
 
         public Business.Recipe Get(int Id)
         {
-            return null;
+            return (from c in Context.Recipe where c.Id == Id select Business.Mapper.Recipe.Map(c)).FirstOrDefault(); 
         }
     }
 }

@@ -21,3 +21,23 @@ C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet 
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.exe
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.pdb
 C:\Users\Thomas\Source\Repos\clementriviere\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Room.exe.config
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.exe
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.pdb
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Projet programmation système.exe.config
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTest.csproj.CopyComplete
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\PPS\GIT\Projet-programmation-systeme\Projet programmation système\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
