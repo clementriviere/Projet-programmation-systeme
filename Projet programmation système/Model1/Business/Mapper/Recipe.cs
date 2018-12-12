@@ -15,6 +15,7 @@ namespace Model.Business.Mapper
                 Id = recipe.Id,
                 RecipeName = recipe.RecipeName,
                 Duration = recipe.Duration,
+                Price = recipe.Price
                 RecipeType = recipe.RecipeType != null ? RecipeType.Map(recipe.RecipeType) : null,
 
             };

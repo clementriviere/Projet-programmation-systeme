@@ -12,6 +12,7 @@ namespace Model.Business
         public int Id { get; set; }
         public string RecipeName { get; set; }
         public int Duration { get; set; }
+        public int Price { get; set; }
 
 
         public RecipeType RecipeType { get; set; }

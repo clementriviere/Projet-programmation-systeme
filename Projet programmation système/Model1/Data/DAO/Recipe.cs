@@ -12,6 +12,7 @@ namespace Model.Data.DAO
         public int Id { get; set; }
         public string RecipeName { get; set; }
         public int Duration { get; set; }
+        public int Price { get; set; }
 
         public int Id_RecipeType { get; set; }
         [ForeignKey("Id_RecipeType")]
