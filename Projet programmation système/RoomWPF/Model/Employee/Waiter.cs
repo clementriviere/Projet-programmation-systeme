@@ -1,22 +1,14 @@
-<<<<<<< HEAD
-﻿using RoomWPF.Model.Client;
+using RoomWPF.Model.Client;
 using RoomWPF.Model.Room;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-=======
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
->>>>>>> thomas
+
 
 namespace Room.Model
 {
-    class Waiter
+    public class Waiter
     {
-<<<<<<< HEAD
         private BackgroundWorker bgw = new BackgroundWorker();
 
         private List<IClient> clients;
@@ -44,42 +36,6 @@ namespace Room.Model
         {
             Console.WriteLine("The waiter clear the table.");
         }
-=======
-        public Waiter()
-        {
 
-        }
-
-        public void ServeClient(List<Client> clients)
-        {
-
-        }
-
-        public void ClearTable(Table table)
-        {
-
-        }
-
-        /*public List<IElement> PutDishInDirtyStock(IElement element)
-        {
-          return null; A changer
-        }
-        */
-
-        public void HelpOtherWaiter(Waiter waiter)
-        {
-
-        }
-
-        /*public void PutBreadAndWater(Ingredient bread, IElement water, Table table)
-        {
-
-        }*/
-
-        /*public List<IKitchen> WaitFood(List<IKitchen> dishes)
-        {
-
-        }*/
->>>>>>> thomas
     }
 }

@@ -13,3 +13,17 @@ C:\Users\Thomas\Documents\GitHub\Projet-programmation-systeme\Projet programmati
 C:\Users\Thomas\Documents\GitHub\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Documents\GitHub\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.exe
 C:\Users\Thomas\Documents\GitHub\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.pdb
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\App.g.cs
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF_MarkupCompile.cache
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.exe
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.pdb
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\MainWindow.g.cs
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF_MarkupCompile.lref
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\bin\Debug\RoomWPF.exe.config
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\bin\Debug\RoomWPF.exe
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\bin\Debug\RoomWPF.pdb
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\MainWindow.baml
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.g.resources
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.Properties.Resources.resources
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.csproj.GenerateResource.cache
+C:\Users\CaSSoSSiSSe\source\repos\Projet-programmation-systeme\Projet programmation système\RoomWPF\obj\Debug\RoomWPF.csproj.CoreCompileInputs.cache

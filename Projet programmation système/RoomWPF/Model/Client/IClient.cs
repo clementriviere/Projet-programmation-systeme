@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace RoomWPF.Model.Client
 {
-    interface IClient
+    public interface IClient
     { 
         int Coef { get; set; }
         bool NeedBreadAndDrinks { get; set; } //A implémenter
-
         void Wait();
         void ChooseCommand();
         void Eat();

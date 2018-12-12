@@ -1,23 +1,14 @@
-<<<<<<< HEAD
-﻿using RoomWPF.Model.Client;
+using RoomWPF.Model.Client;
 using RoomWPF.Model.Room;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Threading;
-=======
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
->>>>>>> thomas
 
 namespace Room.Model
 {
-    class HeadWaiter
+    public class HeadWaiter
     {
-<<<<<<< HEAD
         private BackgroundWorker bgw = new BackgroundWorker();
 
         public HeadWaiter()
@@ -50,46 +41,14 @@ namespace Room.Model
 
         public void GiveCommandToKitchen(Command command)
         {
-            //Send to Socket
-=======
-        public HeadWaiter()
-        {
-
-        }
-
-        public void PlaceClient(Table table) //Comment savoir quel client est assigné ? Nécessaire ?
-        {
-
-        }
-
-        public void GiveMenu(Menu menu)
-        {
-
-        }
-
-        /*public List<Menu> TakeCommand(List<Recipe> command)
-        {
-                    Reflechir à une solution pour les recipe, dépendances, references par rapport à l'assembly ???
-        }*/
-
-        public void GiveCommandToHeadCook(List<Menu> command)
-        {
-
->>>>>>> thomas
         }
 
         public void HelpOtherHeadWaiter(HeadWaiter headwaiter)
         {
-<<<<<<< HEAD
-            //How to implement ?
-=======
-
         }
 
-        public Table SetUpTable()
+        public void SetUpTable()
         {
-            /* A changer */ return null; /* A changer */
->>>>>>> thomas
         }
     }
 }

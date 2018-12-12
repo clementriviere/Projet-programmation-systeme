@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Room.Model
 {
-    class Room
+    public class Room
     {
-<<<<<<< HEAD
         private static Room INSTANCE;
         public static int CAPACITY_ROOM;
 
@@ -20,11 +19,6 @@ namespace Room.Model
         public Room GetInstance()
         {
             return INSTANCE;
-=======
-        public Room(int width, int height)
-        {
-
->>>>>>> thomas
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RoomWPF.Model.Room
 {
-    class Recipe
+    public class Recipe
     {
     }
 }

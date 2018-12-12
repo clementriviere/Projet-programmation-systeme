@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RoomWPF.Model.Room
 {
-    class Command
+    public class Command
     {
         private int ID;
         private static int nextID;
